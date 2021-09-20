@@ -1,3 +1,6 @@
+
+![Terminal Example](Example-Compressed.gif "Terminal Example")
+
 1. Install **PowerShell 7** `winget install --id=Microsoft.PowerShell  -e`
 2. Install [**Fluent Terminal**](https://www.microsoft.com/en-us/p/fluent-terminal/9p2krlmfxf9t?activetab=pivot:overviewtab)
 3. Install nerd font of choice mine is **FuraCode Nerd Font**
@@ -27,6 +30,4 @@
    4. Enable **oh-my-posh** theme `Add-Content $profile "Set-PoshPrompt -Theme Paradox"`
 5.  Install **gsudo** `winget install --id=gerardog.gsudo  -e`
 6.  Restart **Fluent terminal** by killing right clickling on the tray icon and selecting **Exit**
-7.  Start **Fluent terminal** and start a powershell 7 terminal and you should be met by something like this:
-
-![Terminal Example](Example-Compressed.gif "Terminal Example")
+7.  Start **Fluent terminal** and start a powershell 7 tab and you should be met with something that looks like the image above.

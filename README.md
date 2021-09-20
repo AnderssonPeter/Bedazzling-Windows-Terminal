@@ -27,10 +27,11 @@
    2. Run `pwsh -noprofile -command "Install-Module PSReadLine -Force -SkipPublisherCheck -AllowPrerelease"`
 3. Install **posh-git** `Install-Module posh-git -Scope CurrentUser -Force`
 4. Configure Powershell
-   1. Enable **PSReadLine** ``Add-Content $profile "Import-Module PSReadLine`nSet-PSReadLineOption -predictionsource history"`nSet-PSReadLineOption -Colors @{ InlinePrediction = '#8bab5c'}``
-   2. Enable **posh-git** `Add-Content $profile "Import-Module posh-git"`
-   3. [Find what theme you want to use](https://ohmyposh.dev/docs/themes) i use [**paradox**](https://ohmyposh.dev/docs/themes#paradox)
-   4. Enable **oh-my-posh** theme `Add-Content $profile "Set-PoshPrompt -Theme Paradox"`
+   1. Enable **PSReadLine** 
+     ``Add-Content $profile "Import-Module PSReadLine`nSet-PSReadLineOption -predictionsource history`nSet-PSReadLineOption -Colors @{ InlinePrediction = '#8bab5c'}"``
+   3. Enable **posh-git** `Add-Content $profile "Import-Module posh-git"`
+   4. [Find what theme you want to use](https://ohmyposh.dev/docs/themes) i use [**paradox**](https://ohmyposh.dev/docs/themes#paradox)
+   5. Enable **oh-my-posh** theme `Add-Content $profile "Set-PoshPrompt -Theme Paradox"`
 5.  Install **gsudo** `winget install --id=gerardog.gsudo  -e`
 6.  Restart **Fluent Terminal** by killing right clickling on the tray icon and selecting **Exit**
 7.  Start **Fluent Terminal** and start a **powershell 7** tab and you should be met with something that looks like the image above.

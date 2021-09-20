@@ -1,4 +1,4 @@
-# Bedazzling Windows terminal
+# Bedazzling Windows Terminal
 
 1. Install **PowerShell 7** `winget install --id=Microsoft.PowerShell  -e`
 2. Install [**Fluent Terminal**](https://www.microsoft.com/en-us/p/fluent-terminal/9p2krlmfxf9t?activetab=pivot:overviewtab)

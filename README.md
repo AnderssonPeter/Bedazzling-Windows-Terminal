@@ -9,7 +9,7 @@
    3. Download `Hack`
    4. Download `HeavyData`
    5. [Install all of them!](https://github.com/ryanoasis/nerd-fonts#font-installation)
-4. Configure Fluent Terminal
+4. Configure **Fluent Terminal**
    1. Change font under Terminal to your font of choice
    2. Add **PowerShell 7** Profile to Fluent Terminal
 
@@ -33,5 +33,5 @@
    4. [Find what theme you want to use](https://ohmyposh.dev/docs/themes) i use [**paradox**](https://ohmyposh.dev/docs/themes#paradox)
    5. Enable **oh-my-posh** theme `Add-Content $profile "Set-PoshPrompt -Theme Paradox"`
 5.  Install **gsudo** `winget install --id=gerardog.gsudo  -e`
-6.  Restart **Fluent Terminal** by killing right clickling on the tray icon and selecting **Exit**
+6.  Restart **Fluent Terminal** by right clickling on the tray icon and selecting **Exit**
 7.  Start **Fluent Terminal** and start a **powershell 7** tab and you should be met with something that looks like the image above.

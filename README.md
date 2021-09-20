@@ -18,8 +18,8 @@
 | Name                      | `Powershell 7`                           |
 | Shell executable location | `C:\Program Files\PowerShell\7\pwsh.exe` |
 | Arguments                 | `-NoLogo`                                |
-| Use ConPty                | Yes                                      |
-| Enviorment variables      | TERM: xterm-256color                     |
+| Use ConPty                | `Yes`                                    |
+| Enviorment variables      | `TERM: xterm-256color`                   |
 
 5. Install **oh-my-posh** `Install-Module oh-my-posh -Scope CurrentUser`
 2. Update **PSReadLine** to latest PreRelease build

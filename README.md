@@ -29,5 +29,5 @@
    3. [Find what theme you want to use](https://ohmyposh.dev/docs/themes) i use [**paradox**](https://ohmyposh.dev/docs/themes#paradox)
    4. Enable **oh-my-posh** theme `Add-Content $profile "Set-PoshPrompt -Theme Paradox"`
 5.  Install **gsudo** `winget install --id=gerardog.gsudo  -e`
-6.  Restart **Fluent terminal** by killing right clickling on the tray icon and selecting **Exit**
-7.  Start **Fluent terminal** and start a powershell 7 tab and you should be met with something that looks like the image above.
+6.  Restart **Fluent Terminal** by killing right clickling on the tray icon and selecting **Exit**
+7.  Start **Fluent Terminal** and start a **powershell 7** tab and you should be met with something that looks like the image above.

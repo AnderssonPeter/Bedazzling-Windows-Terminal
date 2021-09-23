@@ -1,7 +1,7 @@
 
 ![Terminal Example](Example-Compressed.gif "Terminal Example")
 
-1. Install [**Windows package manager (winget)**](https://www.microsoft.com/en-us/p/app-installer/9nblggh4nns1)
+1. Install [**Windows package manager (winget)**](https://github.com/microsoft/winget-cli/releases)
 2. Install **PowerShell 7** `winget install --id=Microsoft.PowerShell  -e`
 3. Install [**Fluent Terminal**](https://www.microsoft.com/en-us/p/fluent-terminal/9p2krlmfxf9t)
 4. Install nerd font of choice mine is **FuraCode Nerd Font**

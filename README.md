@@ -36,3 +36,8 @@
 10.  Install **gsudo** `winget install --id=gerardog.gsudo  -e`
 11.  Restart **Fluent Terminal** by right clickling on the tray icon and selecting **Exit**
 12.  Start **Fluent Terminal** and start a **powershell 7** tab and you should be met with something that looks like the image above.
+
+
+
+
+![](https://visitor-badge.glitch.me/badge?page_id=anderssonpeter.Bedazzling-Windows-Terminal)
